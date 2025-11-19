@@ -38,5 +38,4 @@ COPIRYGHT &COPY; 2025: Jaime Galvez Martinez; This project is released under GNU
 
 ## DEMO
 
-http://pacman2025game.ct.ws/
-https://thehellishpandaa.github.io/pacman2025
+https://pacmangame.myddns.me
